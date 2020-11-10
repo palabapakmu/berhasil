@@ -16,7 +16,7 @@ const BotName = 'BOT ./Reyyz'; // Nama Bot Whatsapp
 const instagramlu = 'https://www.instagram.com/muza_raihan/'; // Nama Instagramlu cok
 const whatsapplu = '0831-3843-1208'; // Nomor whatsapplu cok
 const kapanbotaktif = 'KALAU OWNER ONLINE'; // Kapan bot lu aktif
-const grupch1 = 'COMING SOON'; // OFFICIAL GRUP LU 1
+const grupch1 = 'COMING SOON'; // OFFICIAL GRUP LU 
 const grupch2 = 'COMING SOON'; // OFFICIAL GRUP LU 2
 //
 const
